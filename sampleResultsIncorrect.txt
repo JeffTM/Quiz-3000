@@ -1,0 +1,26 @@
+Quiz results:
+
+Question 1
+Points: 10
+Incorrect. The correct answer was: a
+
+Question 2
+Points: 12
+Incorrect. The correct answer was: c
+
+Question 3
+Points: 5
+Incorrect. The correct answer was: false
+
+Question 4
+Points: 0
+Prompt:
+What is the difference between a vector and a linked list?
+Which one allows faster random access?
+Answer:
+I don't know
+
+Final results:
+Points earned: 0
+Points possible: 27
+Score: 0%

@@ -1,0 +1,46 @@
+<quiz>
+	<question_mc>
+	<prompt>
+What is stored in a pointer?
+A. The address of another variable
+B. A reference to another variable
+C. The location of a file
+D. I don't know
+	</prompt>
+	<points>10</points>
+	<answer>A</answer>
+	</question_mc>
+
+	<question_mc>
+	<prompt>
+A class is an abstract class if:
+A. It is declared with the reserved word abstract
+B. It contains a pointer
+C. It contains a pure virtual function
+D. It contains a template function
+	</prompt>
+	<points>12</points>
+	<answer>c</answer>
+	</question_mc>
+
+	<question_tf>
+	<prompt>
+Throwing an exception will always cause the program to terminate
+	</prompt>
+	<points>
+	5
+	</points>
+	<answer>
+	f
+	</answer>
+	</question_tf>
+
+	<question_fr>
+	<prompt>
+What is the difference between a vector and a linked list?
+Which one allows faster random access?
+	</prompt>
+	<points> 0 </points>
+	</question_fr>
+
+</quiz>

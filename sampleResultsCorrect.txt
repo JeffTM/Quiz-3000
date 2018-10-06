@@ -1,0 +1,26 @@
+Quiz results:
+
+Question 1
+Points: 10
+Correct! 
+
+Question 2
+Points: 12
+Correct! 
+
+Question 3
+Points: 5
+Correct! 
+
+Question 4
+Points: 0
+Prompt:
+What is the difference between a vector and a linked list?
+Which one allows faster random access?
+Answer:
+A vector stores its data sequentially which allows faster random access
+
+Final results:
+Points earned: 27
+Points possible: 27
+Score: 100%
